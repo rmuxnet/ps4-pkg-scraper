@@ -1,5 +1,7 @@
 cloudscraper
 beautifulsoup4
+rich
+questionary
 black
 pylint
 mypy
